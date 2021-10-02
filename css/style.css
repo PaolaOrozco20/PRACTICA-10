@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: whitesmoke;
+}
+nav{
+    background-color: rgb(56, 55, 55);
+}
+nav a{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav a:hover{
+    color: white;
+    background-color: rgb(112, 106, 106);
+}
+.card-text{
+    text-align: justify;
+}
+.card-title{
+    text-align: center;
+    background-color: rgb(56, 55, 55);
+    color: seashell;
+    padding: 5px;
+}
+.figure{
+    text-align: right;
+    position:relative;
+    
+}
+#logo-boots{
+    width: 10%;
+}
+/* FOOTER */
+footer {
+	background-color: pink;
+	height: 50%;
+    color: black;
+    padding: 15px;
+}
+h6:hover{
+    color: rgb(245, 245, 245);
+}
